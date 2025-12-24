@@ -80,11 +80,10 @@ O script gera quatro gráficos principais:
 - Alguns partidos apresentaram **crescimento percentual expressivo**, mesmo partindo de bases menores  
 - A normalização dos dados permite uma análise mais justa entre partidos grandes e pequenos  
 
-## Desenvolvido por Rayssa Vicente
----
-
 ## ▶️ Como Executar o Projeto
 1. Organize os arquivos CSV do TSE nas pastas correspondentes (`2018` e `2022`)
 2. Instale as dependências:
 ```bash
 pip install pandas matplotlib numpy
+
+## Desenvolvido por Rayssa Vicente
