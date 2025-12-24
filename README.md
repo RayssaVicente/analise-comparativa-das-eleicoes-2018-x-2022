@@ -80,6 +80,7 @@ O script gera quatro gráficos principais:
 - Alguns partidos apresentaram **crescimento percentual expressivo**, mesmo partindo de bases menores  
 - A normalização dos dados permite uma análise mais justa entre partidos grandes e pequenos  
 
+## Desenvolvido por Rayssa Vicente
 ---
 
 ## ▶️ Como Executar o Projeto
